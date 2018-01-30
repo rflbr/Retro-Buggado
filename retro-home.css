@@ -1,0 +1,12 @@
+body {
+  background-image: url('img/background/typewriter.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+/* row white da home */
+#bloco-1 {
+  padding-top: 10vh;
+  padding-bottom: 7vh;
+  margin-top: 40vh;
+  margin-bottom: 55vh;
+}
